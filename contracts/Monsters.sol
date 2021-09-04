@@ -182,7 +182,7 @@ contract Monsters is ERC721Enumerable, Ownable, ReentrancyGuard {
     "Claws",
     "Eye",
     "Wings",
-    "Arms"
+    "Arms",
     "Hair",
     "Tail",
     "Song",
