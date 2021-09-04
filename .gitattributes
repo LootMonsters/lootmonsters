@@ -1,1 +1,3 @@
 *.sol linguist-language=Solidity
+types/*.ts linguist-detectable=false
+test/*.ts linguist-detectable=false
